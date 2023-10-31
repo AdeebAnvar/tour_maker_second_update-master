@@ -1,0 +1,1 @@
+-keep class com.tour.tour_maker.** { *; }
